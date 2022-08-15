@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser, 
 Near Tutorial [https://dacade.org/communities/near/courses/near-101/learning-modules/6f5115da-d439-4133-8b9b-dc66494fd6b2](https://dacade.org/communities/near/courses/near-101/learning-modules/6f5115da-d439-4133-8b9b-dc66494fd6b2)
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0f4aec8-10c3-4051-b96e-20a9b245fb7b/Untitled.png)
+![./Untitled.png](Untitled)
 
 #### Add buffer to window
 
