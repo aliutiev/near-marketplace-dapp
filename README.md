@@ -7,16 +7,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser, 
 ### `Found some errors`
 
 
-#### 1.1/1.2 connect to a react dapp - link not working
+#### 1.1/1.2 Documentation link not working
+- "Connect to a react dapp to near"
+
 Near Tutorial [https://dacade.org/communities/near/courses/near-101/learning-modules/6f5115da-d439-4133-8b9b-dc66494fd6b2](https://dacade.org/communities/near/courses/near-101/learning-modules/6f5115da-d439-4133-8b9b-dc66494fd6b2)
 
 
 ![SS of Doc](./Untitled.png)
 
+
+
 #### Add buffer to window
 
 
-[https://github.com/isaacs/core-util-is/issues/27](https://github.com/isaacs/core-util-is/issues/27)
+Found this workaround online ([https://github.com/isaacs/core-util-is/issues/27](https://github.com/isaacs/core-util-is/issues/27)). Was receiving "Uncaught (in promise) ReferenceError: Buffer is not defined" error while running NPM start, connect wallet button not working.
 
 Added the file config-overrides.js with the following code
 
